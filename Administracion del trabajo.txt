@@ -1,0 +1,13 @@
+Hola Oscar, intentamos subirlo entre varios pero no sabiamos como administrar el paso de pull request, asique para evitar lios y millones de branches en repositorio lo subimos todo de golpe y te adjuntamos el trabajo realizado por cada uno de los miembros:
+El trabajo en si fue realizado por todos los miembros del grupo menos Julian, solo que a la hora de ir desarrollandolo mas a fondo nos dividimos las funciones que teniamos pensado incluir para hacer todos al menos una y asi hacerlo mas
+rapido ya que no nos sobraba el tiempo y al final revisarlo entero entre todos para asegurar que todo estaba bien hecho y que entendiamos todos como se habian hecho las funciones y las respectivas funcionalidades.
+La distribucion de las funciones fue asi: 
+
+-Daniel Martínez González se encargo de la funcion buscar y de la de clasificacion(junto con las funciones ordenar e intercambiar usadas en esta funcion).
+-Miguel Muñoz Cuenca se encargo de la funcion eliminar.
+-Álvaro López Martínez se encargo de la de ingresar.
+-Diego Aranda Martinez se encargo de las de tiempos y la de imprimir tiempos.
+-Las funciones restantes(menu y fin) fueron las primeras que hicimos y fueron realizadas en conjunto.
+
+Esta es la organizacion que tuvimos para el trabajo. Esperamos que te haya gustado.
+
